@@ -26,3 +26,12 @@ I created a billing alarm with all the required parameters set.
 ![Proof of Logical Architecture Diagram](assets/week0/Cruddur-LogicalDiagram.png)
 
 [Lucid Charts Shared Link](https://lucid.app/lucidchart/cc2bb1c5-6e26-4d1f-a446-469753f3ee1b/edit?view_items=pcFBHJV-hF5V&invitationId=inv_5149cd28-e901-4751-9462-a3971608b6f8)
+
+## Homework Challenges
+
+1. I have included the below components in my Logical Diagram:-
+- New Relic - APM tool to gather logs/errors in Frontend and/or Backend
+- Cloudwatch - AWS native for monitoring services
+- Quicksight - AWS native service for reporting purposes
+
+2. I would like to add Event driven architecture as well.
