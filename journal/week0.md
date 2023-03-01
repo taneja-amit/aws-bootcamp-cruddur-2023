@@ -21,6 +21,12 @@ I created a billing alarm with all the required parameters set.
 
 ![Proof of Billing Alarm creation](assets/week0/BillingAlarm.png)
 
+### Recreate Conceptual Architecture Diagram
+
+![Proof of Conceptual Architecture Diagram](assets/week0/Cruddur-ConceptualDiagram.png)
+
+[Lucid Charts Shared Link](https://lucid.app/lucidchart/55c19acd-afb7-4776-b5e1-497d20a89ef8/edit?invitationId=inv_5192735b-72e1-4aae-9758-ff3e6e3126d5)
+
 ### Recreate Logical Architecture Diagram
 
 ![Proof of Logical Architecture Diagram](assets/week0/Cruddur-LogicalDiagram.png)
