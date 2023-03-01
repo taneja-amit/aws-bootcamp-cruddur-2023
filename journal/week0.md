@@ -21,4 +21,7 @@ I created a billing alarm with all the required parameters set.
 
 ![Proof of Billing Alarm creation](assets/week0/BillingAlarm.png)
 
+### Recreate Logical Architecture Diagram
+
+![Proof of Logical Architecture Diagram](assets/week0/Cruddur-LogicalDiagram.png)
 
